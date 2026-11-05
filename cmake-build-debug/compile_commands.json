@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/gaelt/xti103/tp3/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\gcc.exe -IC:/Users/gaelt/xti103/tp3/. -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\tp3.dir\\Quotes_G.c.obj -c C:\\Users\\gaelt\\xti103\\tp3\\Quotes_G.c",
+  "file": "C:/Users/gaelt/xti103/tp3/Quotes_G.c",
+  "output": "C:/Users/gaelt/xti103/tp3/cmake-build-debug/CMakeFiles/tp3.dir/Quotes_G.c.obj"
+}
+]
